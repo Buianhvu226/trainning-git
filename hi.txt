@@ -2,3 +2,6 @@ hi 1234586 //Nhung fix
 hi 123456 //Vũ fix
 
 fix 14:21
+add Commit 1
+add Commit 2
+add Commit 3
